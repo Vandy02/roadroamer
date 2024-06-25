@@ -2,7 +2,7 @@
   "name": "car-rental",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vandy02.github.io/roadroamer",
+  "homepage": "https://vandy02.github.io/Road-Roamer",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
