@@ -5,7 +5,7 @@ import React from 'react'
 const Local = () => {
     return (
         <div>
-            <Banners img="/local-banner.jpg" title="Local Transfers" text="Add to the memories on your big day with Car Rental" />
+            <Banners img="/local-banner.jpg" title="Local Transfers" text="Add to the memories on your big day with Road Roamer" />
             <div className="max-w-[1150px] mx-4 lg:mx-auto my-10">
                 <div className='grid grid-cols-1 lg:grid-cols-2 gap-10'>
                     <div>
@@ -24,7 +24,7 @@ const Local = () => {
                             exceptional.
                         </p>
                     </div>
-                    <img src="/local.jpeg" className="w-full h-full" alt="" />
+                    <img src="/local.jpg" className="w-full h-full" alt="" />
                 </div>
                 <h2 className="text-center text-md md:text-4xl text-slate-500 my-16">
                     Whether you seek lavish indulgence or spacious versatility, our

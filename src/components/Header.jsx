@@ -12,7 +12,7 @@ const Header = () => {
   return (
     <div className='bg-white shadow-lg h-16 flex justify-between items-center md:px-[10%]'>
       <Link href="/" className="text-third-color font-bold text-2xl pl-5 md:pl-0">
-        Car Rental
+        Road Roamer
       </Link>
       <div className="md:hidden flex flex-col gap-1 pr-5" onClick={() => setIsMenu(!isMenu)}>
         <div className="w-5 h-0.5 bg-black"></div>

@@ -17,7 +17,7 @@ const Feedback = () => {
                     <div>
                         <h4 className='font-bold sm:text-5xl text-[26px] border-5 border-l-third-color mb-3'>Where Luxury Drives Excellence</h4>
                         <p className="mt-2.5 sm:mt-5 font-normal sm:text-lg text-md leading-6 text-slate-400">
-                            Code scrapper is your premier choice for a brand-new chauffeured
+                            Road Roamer is your premier choice for a brand-new chauffeured
                             car service in Melbourne.
                         </p>
                         <p className="mt-2.5 sm:mt-5 font-normal sm:text-lg text-md leading-6 text-slate-400">
